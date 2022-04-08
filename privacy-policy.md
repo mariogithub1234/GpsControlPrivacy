@@ -1,21 +1,21 @@
 # Privacy Policy
 
-[["We" or "I", or Website or App name]] takes your privacy seriously. To better protect your privacy We provide this privacy policy notice explaining the way your personal information is collected and used.
+GpsControl takes your privacy seriously. To better protect your privacy We provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
 ## Collection of Routine Information
 
-This GpsControlApp track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this GpsControlApp. The information is tracked for routine administration and maintenance purposes.
+This GpsControlApp track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific user to this GpsControlApp. The information is tracked for routine administration and maintenance purposes.
 
 
 ## Cookies
 
-Where necessary, this GpsControlApp uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
+Where necessary, this GpsControlApp uses cookies to store information about a visitor’s preferences and history in order to better serve the user and/or present the user with customized content.
 
 
 ## Advertisement and Other Third Parties
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this GpsControlApp in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This GpsControlApp has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+Advertising partners and other third parties may use cookies, scripts and/or web beacons to track user activities on this GpsControlApp in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This GpsControlApp has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
 
 
 ## Links to Third Party Websites
@@ -30,11 +30,11 @@ The security of your personal information is important to us, but remember that 
 
 ## Changes To This Privacy Policy
 
-This Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This Privacy Policy is effective as of 01-01-2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
 We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If We make any material changes to this Privacy Policy, We will notify you either through the email address you have provided us, or by placing a prominent notice on our GpsControlApp.
 
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send us an email to [[Contact Email Address]].
+For any questions or concerns regarding the privacy policy, please send us an email to gerardo@madd.com.mx.
